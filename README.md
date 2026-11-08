@@ -1,6 +1,8 @@
 # macOS USB Creator
 A macOS program that allows to create macOS USBs.
 
+Versions it creates: OS X 10.11 El Capitan to macOS 26 Tahoe
+
 Minimum OS: OS X 10.9 Mavericks
 
 # Instructions to open the program
