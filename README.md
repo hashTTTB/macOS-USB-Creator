@@ -1,7 +1,7 @@
 # macOS USB Creator
 A macOS program that allows to create macOS USBs.
 
-Minimum OS: OS X 10.9 Mavricks
+Minimum OS: OS X 10.9 Mavericks
 
 # Instructions to open the program
 Step 1: Download from the releases (latest is highly recommended).
