@@ -1,6 +1,6 @@
 # macOS USB Creator
 
-macOS Versions it creates: OS X 10.11 El Capitan to macOS 26 Tahoe
+macOS Versions it creates: OS X 10.11 El Capitan to macOS 26 Tahoe (excluding macOS 10.12 Sierra).
 
 Minimum OS: OS X 10.9 Mavericks
 
