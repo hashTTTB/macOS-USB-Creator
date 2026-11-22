@@ -1,8 +1,8 @@
 # macOS USB Creator
 
-macOS Versions it creates: OS X 10.11 El Capitan to macOS 26 Tahoe
+macOS Versions it creates: OS X 10.11 El Capitan to macOS 26 Tahoe.
 
-Minimum OS you can use this tool with: OS X 10.11 El Capitan
+Minimum OS you can use this tool with: OS X 10.9 Mavericks.
 
 # Instructions to open the program
 Step 1: Download from the releases (latest is highly recommended).
