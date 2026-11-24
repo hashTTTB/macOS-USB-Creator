@@ -14,5 +14,6 @@ Step 3: Type in "chmod +x macos_usb_creator-v1.2.sh" or "chmod +x whatever you s
 Step 4: Type in "./macos_usb_creator-v1.2.sh" or "./whatever you saved the file as".
 
 Then you should see this:
+
 <img width="682" height="483" alt="Screenshot 2026-11-24 at 19 48 17" src="https://github.com/user-attachments/assets/4cf8d920-e24b-4620-8301-f956abbc4d97" />
 
